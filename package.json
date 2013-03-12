@@ -1,5 +1,5 @@
 {
-    "name" : "procifle-parser",
+    "name" : "procfile-parser",
     "version" : "0.0.1",
     "description" : "A simple Procfile parser written for OpenDyno",
     "keywords": [
@@ -27,6 +27,6 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git@friendco.de:opendyno/procifle-parser.git"
+        "url": "git@friendco.de:opendyno/procfile-parser.git"
     }
 }
